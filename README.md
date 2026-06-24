@@ -1,26 +1,26 @@
-#FUTURE_PE_01
+# FUTURE_PE_01
 
-##Project Title
+## Project Title
 
 AI Website Copy Generator for Local Businesses
 
-##Business Chosen
+## Business Chosen
 
 The Brew & Bean Cafe (Koramangala, Bangalore)
 
-##AI Tool Used
+## AI Tool Used
 
-chatgpt
+ChatGPT
 
-##Project Overview
+## Project Overview
 
 This project demonstrates how Prompt Engineering can be used to generate professional, conversion-focused website copy for local businesses. The objective was to create homepage content, service descriptions, and call-to-action sections that are ready to be used on a business website.
 
-##Prompt Logic
+## Prompt Logic
 
 This prompt system is designed as a reusable framework for generating website copy for different local businesses.
 
-##By changing variables such as:
+## By changing variables such as:
 
 - Business Name
 - Location
@@ -29,7 +29,7 @@ This prompt system is designed as a reusable framework for generating website co
 
 the same prompt can be adapted for multiple clients.
 
-#$The prompt instructs the AI to:
+## The prompt instructs the AI to:
 
 - Create a strong value proposition
 - Write customer-focused content
@@ -37,7 +37,7 @@ the same prompt can be adapted for multiple clients.
 - Produce location-based CTAs
 - Maintain a professional and engaging tone
 
-##Deliverables
+## Deliverables
 
 - Homepage Copy
 - Services Page Content
@@ -45,7 +45,44 @@ the same prompt can be adapted for multiple clients.
 - Structured Prompt Framework
 - AI-Generated Website Content
 
-##Skills Gained
+## 🔄 Prompt Improvement (Before vs After)
+
+### ❌ Initial Approach
+The initial prompt was simple and did not include strict structure or clear instructions.  
+This resulted in general AI output with less consistency in formatting and marketing focus.
+
+---
+
+### ✅ Improved Prompt Approach
+The prompt was later enhanced by adding:
+
+- Clear role definition (Senior Website Copywriter)
+- Structured output format (Homepage, About Us, Services, CTA)
+- Defined target audience (Students, Professionals, Families)
+- Brand tone guidelines (Friendly, Professional, Engaging)
+- Focus on customer benefits instead of only features
+- Location-based personalization (Koramangala, Bangalore)
+
+---
+
+### 🚀 Impact of Improvement
+After improving the prompt:
+
+- Output became more structured and professional  
+- Content became more persuasive and conversion-focused  
+- Website sections were clearly separated  
+- AI generated more realistic, client-ready content  
+
+---
+
+### 📊 Key Learning
+This shows that:
+
+👉 Well-structured prompts produce high-quality outputs  
+👉 Role + Format + Constraints improve AI performance  
+👉 Prompt engineering is essential for real-world applications
+
+## Skills Gained
 
 - Prompt Engineering
 - Website Copywriting
