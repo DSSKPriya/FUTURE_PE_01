@@ -105,6 +105,6 @@ This shows that:
 This project demonstrates the effectiveness of Prompt Engineering in generating professional, structured, and conversion-focused website copy for local businesses. By refining the prompt with clear roles, audience definitions, tone guidelines, and output requirements, the quality of AI-generated content improved significantly. This project highlights how well-designed prompts can transform AI into a practical tool for real-world business content creation.
 
 ## Author
-Dandu Priya
+**D.S.S.K.Priya**
 
 Prompt Engineering Intern – Future Interns
