@@ -1,18 +1,18 @@
-Project Name
+# Project Name
 
 AI Website Copy Generator for Local Businesses
 
-Prompt Framework
+# Prompt Framework
 
-Objective
+## Objective
 
 Generate high-quality, conversion-focused website copy for a local business that can be directly used on a professional website.
 
-Role
+## Role
 
 Act as a senior website copywriter and conversion marketing specialist with expertise in creating engaging, persuasive, and customer-focused content for local businesses.
 
-Business Information
+## Business Information
 
 Business Name: The Brew & Bean Cafe
 
@@ -20,23 +20,23 @@ Location: Koramangala, Bangalore
 
 Business Type: Cafe & Bakery
 
-Target Audience:
+## Target Audience:
 
 - Students
 - Working Professionals
 - Families
 - Coffee Enthusiasts
 
-Brand Tone:
+## Brand Tone:
 
 - Friendly
 - Professional
 - Welcoming
 - Customer-Focused
 
-Content Requirements
+## Content Requirements
 
-Homepage Section
+### Homepage Section
 
 Generate:
 
@@ -45,7 +45,7 @@ Generate:
 - Introduction Paragraph
 - Value Proposition
 
-About Us Section
+### About Us Section
 
 Generate:
 
@@ -53,7 +53,7 @@ Generate:
 - Mission Statement
 - Customer Promise
 
-Services Section
+### Services Section
 
 Generate detailed descriptions for:
 
@@ -67,7 +67,7 @@ For each service include:
 - Customer Benefits
 - Unique Selling Points
 
-Why Choose Us Section
+### Why Choose Us Section
 
 Generate persuasive points highlighting:
 
@@ -76,7 +76,7 @@ Generate persuasive points highlighting:
 - Location Advantage
 - Product Freshness
 
-Call-To-Action Section
+### Call-To-Action Section
 
 Create:
 
@@ -85,7 +85,7 @@ Create:
 - Location-Based CTA
 - Trust-Building CTA
 
-Writing Guidelines
+## Writing Guidelines
 
 - Use persuasive and conversion-focused language.
 - Highlight unique business value.
@@ -94,12 +94,12 @@ Writing Guidelines
 - Ensure website-ready formatting.
 - Maintain consistency across all sections.
 
-Expected Deliverable
+## Expected Deliverable
 
 A complete website copy package including Homepage, About Us, Services, Why Choose Us, and CTA sections suitable for immediate website deployment.
 
-Project Category:
+## Project Category:
 Prompt Engineering | AI Content Generation | Website Copywriting
 
-Prepared For:
+## Prepared For:
 Future Interns – Prompt Engineering Internship
