@@ -97,3 +97,9 @@ Writing Guidelines
 Expected Deliverable
 
 A complete website copy package including Homepage, About Us, Services, Why Choose Us, and CTA sections suitable for immediate website deployment.
+
+Project Category:
+Prompt Engineering | AI Content Generation | Website Copywriting
+
+Prepared For:
+Future Interns – Prompt Engineering Internship
