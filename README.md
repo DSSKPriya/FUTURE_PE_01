@@ -20,7 +20,7 @@ This project demonstrates how Prompt Engineering can be used to generate profess
 
 This prompt system is designed as a reusable framework for generating website copy for different local businesses.
 
-## By changing variables such as:
+### By changing variables such as:
 
 - Business Name
 - Location
@@ -29,7 +29,7 @@ This prompt system is designed as a reusable framework for generating website co
 
 the same prompt can be adapted for multiple clients.
 
-## The prompt instructs the AI to:
+### The prompt instructs the AI to:
 
 - Create a strong value proposition
 - Write customer-focused content
@@ -100,6 +100,9 @@ This shows that:
 - prompts.txt
 - output.md
 - screenshots/
+
+## Conclusion
+This project demonstrates the effectiveness of Prompt Engineering in generating professional, structured, and conversion-focused website copy for local businesses. By refining the prompt with clear roles, audience definitions, tone guidelines, and output requirements, the quality of AI-generated content improved significantly. This project highlights how well-designed prompts can transform AI into a practical tool for real-world business content creation.
 
 ## Author
 Dandu Priya
