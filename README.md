@@ -1,26 +1,26 @@
-FUTURE_PE_01
+#FUTURE_PE_01
 
-Project Title
+##Project Title
 
 AI Website Copy Generator for Local Businesses
 
-Business Chosen
+##Business Chosen
 
 The Brew & Bean Cafe (Koramangala, Bangalore)
 
-AI Tool Used
+##AI Tool Used
 
-Google Gemini
+chatgpt
 
-Project Overview
+##Project Overview
 
 This project demonstrates how Prompt Engineering can be used to generate professional, conversion-focused website copy for local businesses. The objective was to create homepage content, service descriptions, and call-to-action sections that are ready to be used on a business website.
 
-Prompt Logic
+##Prompt Logic
 
 This prompt system is designed as a reusable framework for generating website copy for different local businesses.
 
-By changing variables such as:
+##By changing variables such as:
 
 - Business Name
 - Location
@@ -29,7 +29,7 @@ By changing variables such as:
 
 the same prompt can be adapted for multiple clients.
 
-The prompt instructs the AI to:
+#$The prompt instructs the AI to:
 
 - Create a strong value proposition
 - Write customer-focused content
@@ -37,7 +37,7 @@ The prompt instructs the AI to:
 - Produce location-based CTAs
 - Maintain a professional and engaging tone
 
-Deliverables
+##Deliverables
 
 - Homepage Copy
 - Services Page Content
@@ -45,10 +45,26 @@ Deliverables
 - Structured Prompt Framework
 - AI-Generated Website Content
 
-Skills Gained
+##Skills Gained
 
 - Prompt Engineering
 - Website Copywriting
 - AI Content Generation
 - Conversion-Focused Messaging
 - Client Requirement Analysis
+
+## Technologies Used
+- ChatGPT
+- GitHub
+- Markdown Documentation
+
+## Repository Contents
+- README.md
+- prompts.txt
+- output.md
+- screenshots/
+
+## Author
+Dandu Priya
+
+Prompt Engineering Intern – Future Interns
