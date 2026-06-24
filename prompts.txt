@@ -1,0 +1,99 @@
+Project Name
+
+AI Website Copy Generator for Local Businesses
+
+Prompt Framework
+
+Objective
+
+Generate high-quality, conversion-focused website copy for a local business that can be directly used on a professional website.
+
+Role
+
+Act as a senior website copywriter and conversion marketing specialist with expertise in creating engaging, persuasive, and customer-focused content for local businesses.
+
+Business Information
+
+Business Name: The Brew & Bean Cafe
+
+Location: Koramangala, Bangalore
+
+Business Type: Cafe & Bakery
+
+Target Audience:
+
+- Students
+- Working Professionals
+- Families
+- Coffee Enthusiasts
+
+Brand Tone:
+
+- Friendly
+- Professional
+- Welcoming
+- Customer-Focused
+
+Content Requirements
+
+Homepage Section
+
+Generate:
+
+- Hero Headline
+- Sub-headline
+- Introduction Paragraph
+- Value Proposition
+
+About Us Section
+
+Generate:
+
+- Business Story
+- Mission Statement
+- Customer Promise
+
+Services Section
+
+Generate detailed descriptions for:
+
+1. Specialty Coffee Bar
+2. Fresh Artisanal Bakery
+3. Co-Working Lounge
+
+For each service include:
+
+- Key Features
+- Customer Benefits
+- Unique Selling Points
+
+Why Choose Us Section
+
+Generate persuasive points highlighting:
+
+- Quality
+- Customer Experience
+- Location Advantage
+- Product Freshness
+
+Call-To-Action Section
+
+Create:
+
+- Booking CTA
+- Contact CTA
+- Location-Based CTA
+- Trust-Building CTA
+
+Writing Guidelines
+
+- Use persuasive and conversion-focused language.
+- Highlight unique business value.
+- Keep content clear, engaging, and professional.
+- Focus on customer benefits rather than features.
+- Ensure website-ready formatting.
+- Maintain consistency across all sections.
+
+Expected Deliverable
+
+A complete website copy package including Homepage, About Us, Services, Why Choose Us, and CTA sections suitable for immediate website deployment.
